@@ -1,7 +1,6 @@
 India Academia Connect AI Hackathon
-Image
-People programming
-Digital Event
+
+
 October 4-13, 2021
 Application Deadline: September 19, 2021
 
